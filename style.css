@@ -1,0 +1,78 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  cursor: url("data:image/x-icon;base64,AAACAAEAICAQAAAAAADoAgAAFgAAACgAAAAgAAAAQAAAAAEABAAAAAAAAAIAAAAAAAAAAAAAEAAAAAAAAAD9/f0AAAAAAPb29gAQEBAA////APHx8QAUFBQAHR0dAA8PDwAICAgA9/f3ABoaGgAFBQUALCwsAO3t7QAAAAAAERERERERERERERERERERERERERERERERERERERERERERERERERgUREREERERERERERERERERRBGZcUEREREREREREREREREkREERERERERERERERERFEFFSkQRERERERERERERkURBQUFEQRERERERERERERREQUFEFEQRERERERERERFEREFEFBREERERERERERE0RERBRBQUREERERERERERFEREREQURERBERERERERERREREREREREQRERERERERFERERERERERETRERERERERREREREREREREEREREREREUQURERERERERBEREREREREUFEREREREREQRERERERERFBRERERERBRBERERERERERYURERBREQUQRERERERERERHkREQUREERERERERERERERFEREFEQBERERERERERERERRERBFEEREREREREREREREUREQRsRERERERERERERERFEREERERERERERERERERERRERBEREREREREREREREREUREQRERERERERERERERERxERKERERERERERERERERERRERBEREREREREREREREREUREQRERERERERERERERERFEREERERERERERERERERERFEQRERERERERERERERERERERERERERERERERERERERERERERERERERERH///////gP///gB///4AP//8AH///AA///gAH//wAA//8AAH/+AAB//gAAf/4AAH/8AAA//AAAP/wAAD/+AAA//gAAf/8AAH//AAD//4AB///AB///wA///8B////Af///wH///8B////Af///wH///8B////g////8f///////w=="),
+    auto;
+}
+header {
+  background-color: #000000;
+  height: 80px;
+}
+main {
+  background-color: #25428c;
+}
+li {
+  display: inline-block;
+  margin-left: 20px;
+  margin-top: 20px;
+  font-size: 32px;
+  color: #ffffff;
+}
+ul {
+  text-align: center;
+}
+h1 {
+  text-align: center;
+}
+li:hover {
+  color: #192861;
+}
+figure {
+  display: inline-block;
+  text-align: center;
+}
+img {
+  height: 220px;
+  margin-left: 100px;
+  border-radius: 30px;
+}
+
+section {
+  text-align: center;
+  margin-top: 60px;
+}
+footer {
+  background-color: #000000;
+  height: 80px;
+}
+p {
+  color: #ffffff;
+}
+.capa {
+  height: 250px;
+  width: 1265px;
+  margin-left: 0px;
+  border-radius: 0;
+}
+.footer-content {
+  text-align: center;
+}
+
+.social-media ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  text-align: right;
+}
+
+.social-media ul li {
+  display: inline-block;
+  margin-right: 50px;
+  margin-left: 50px;
+}
+
+.social-media ul li img {
+  width: 30px;
+  height: 30px;
+}
